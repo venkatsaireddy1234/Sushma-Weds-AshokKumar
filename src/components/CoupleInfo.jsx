@@ -19,8 +19,10 @@ const CoupleInfo = () => {
         <div className="mt-8 md:mt-12 flex flex-col gap-6 items-center">
           {/* Add content about the couple and their story here */}
           <div className="text-base md:text-lg text-center">
-            <h2 className="font-bold mb-2 md:mb-4">Dear Family and Friends,</h2>
-            <p>
+            <h2 className="font-extrabold mb-2 md:mb-4  ">
+              Dear Family and Friends,
+            </h2>
+            <p className=" kaushan-script-regular">
               We are thrilled to invite you to a joyous celebration of love as
               we unite in marriage. Our journey together has been a beautiful
               tale of friendship, love, and laughter, and we can't wait to share
@@ -28,30 +30,42 @@ const CoupleInfo = () => {
             </p>
           </div>
 
-          <div className="text-base md:text-lg text-center">
-            <h2 className="font-bold mb-2 md:mb-4">Wedding Festivities</h2>
-            <div>
-              <strong> 💑19th Sunday 2023</strong> - Wedding Ceremony: The most
-              special moment, where we become partners forever. Your blessings
-              will light up our path as we step into this new adventure.
-            </div>
-            <div>
-              <strong>🎉20th Monday 2023</strong> - Lunch🥳: Let's start the
-              festivities with an evening of delightful dancing, conversations,
-              scrumptious food, and the joy of togetherness.
-            </div>
-            <div>
-              <strong>🏰 Venue Place:</strong> Vaishnavi Gardens, Thripuranthakam
-              Road, Yerragondapalem.
-            </div>
-            <div>
+          <h2 className="font-bold mb-2 md:mb-4">Wedding Festivities</h2>
+          <div>
+            <strong> 💑13th Tuesday 2024</strong>{" "}
+            <p className=" kaushan-script-regular">
+              - Wedding Ceremony: The most special moment, where we become
+              partners forever. Your blessings will light up our path as we step
+              into this new adventure.
+            </p>
+          </div>
+          <div>
+            <strong>🎉14th Wednesday 2024</strong>{" "}
+            <p className=" kaushan-script-regular">
+              - Lunch🥳: Let's start the festivities with an evening of
+              delightful dancing, conversations, scrumptious food, and the joy
+              of togetherness.
+            </p>
+          </div>
+          <div>
+            <strong>🏰 Venue Place:</strong>{" "}
+            <p className=" kaushan-script-regular">
+              R.M.S Function Hall, Balaji Talkies Road,Hindupur.
+            </p>
+          </div>
+          <div>
+            <p className=" kaushan-script-regular">
+              {" "}
               Join us as we begin this beautiful journey of love, companionship,
               and shared dreams. Your presence will light up our hearts.
-            </div>
-            <div>
-              With love, Guptha & Padmaja Can't wait to celebrate the auspicious
-              moment of our family with you! 💌RSVP: +91 9493663403
-            </div>
+            </p>
+          </div>
+          <div>
+            <p className=" kaushan-script-regular">
+              {" "}
+              With love, Divay & Akhil Can't wait to celebrate the auspicious
+              moment of our family with you! 💌RSVP:
+            </p>
           </div>
         </div>
       </div>

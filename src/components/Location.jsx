@@ -1,13 +1,13 @@
 import React from "react";
 
 const LocationInfo = () => {
-  const weddingVenueLat = "15.3730895";
-  const weddingVenueLng = "78.9226293";
-  const weddingVenueName = "Sri Vasavi Kalyanamandapa Samudayam";
-  const weddingVenueLink = `https://www.google.com/maps/place/sri+vasavi+kalyanamandapa+samudayam/@${weddingVenueLat},${weddingVenueLng},17z/data=!3m1!4b1!4m6!3m5!1s0x3bb4e42f2fd4ef55:0x4c26f45ad2844346!8m2!3d${weddingVenueLat}!4d${weddingVenueLng}!16s%2Fg%2F11c33mhxzd`;
+  const weddingVenueLat = "13.8275268";
+  const weddingVenueLng = "77.4966735";
+  const weddingVenueName = "R.M.S. Functional Hall";
+  const weddingVenueLink = `https://www.google.com/maps/place/R.M.S.Functional+Hall,+Balaji+Talkies+Rd,+Near+Balaji+theater,+Mukkidipeta,+Hindupuram,+Andhra+Pradesh+515201/@${weddingVenueLat},${weddingVenueLng},17z/data=!4m6!3m5!1s0x3bb1a3a1052513af:0x492b33ede5040f46!8m2!3d${weddingVenueLat}!4d${weddingVenueLng}!16s%2Fg%2F1tf3mc52?source=lnms`;
 
   return (
-    <section className="bg-white py-8 md:py-12">
+    <section className="bg-white py-8 md:py-12 kaushan-script-regular">
       <div className="container mx-auto px-4 md:px-6 text-gray-800">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-6 md:mb-8">
           Location
