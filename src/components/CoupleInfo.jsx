@@ -32,17 +32,17 @@ const CoupleInfo = () => {
 
           <h2 className="font-bold mb-2 md:mb-4">Wedding Festivities</h2>
           <div>
-            <strong> 💑13th Tuesday 2024</strong>{" "}
+            <strong > 💑13th Tuesday - Reception 7PM Onwards</strong>{" "}
             <p className=" kaushan-script-regular">
-              - Wedding Ceremony: The most special moment, where we become
+             The most special moment, where we become
               partners forever. Your blessings will light up our path as we step
               into this new adventure.
             </p>
           </div>
           <div>
-            <strong>🎉14th Wednesday 2024</strong>{" "}
+            <strong>🎉14th Wednesday - Muhurtham 6AM - 7AM</strong>{" "}
             <p className=" kaushan-script-regular">
-              - Lunch🥳: Let's start the festivities with an evening of
+           Let's start the festivities with an evening of
               delightful dancing, conversations, scrumptious food, and the joy
               of togetherness.
             </p>
@@ -61,11 +61,7 @@ const CoupleInfo = () => {
             </p>
           </div>
           <div>
-            <p className=" kaushan-script-regular">
-              {" "}
-              With love, Divay & Akhil Can't wait to celebrate the auspicious
-              moment of our family with you! 💌RSVP:
-            </p>
+           
           </div>
         </div>
       </div>

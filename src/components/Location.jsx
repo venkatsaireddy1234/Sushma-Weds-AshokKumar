@@ -35,7 +35,12 @@ const LocationInfo = () => {
             ></iframe>
           </div>
         </div>
+        
       </div>
+      <p className=" kaushan-script-regular mt-5">
+          {" "}
+          With love Divya & Akhil 
+        </p>
     </section>
   );
 };

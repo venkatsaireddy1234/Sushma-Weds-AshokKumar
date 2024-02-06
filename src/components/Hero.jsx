@@ -18,7 +18,7 @@ const Hero = () => {
             Divya
           </h1>
 
-          <h1 className="text-3xl md:text-5xl font-bold text-white mb-4 font-serif">
+          <h1 className="text-3xl md:text-4xl font-bold text-white mb-4 font-serif">
             <span className="text-white">{loveSymbols}</span>Weds
             <span className="text-white">{loveSymbols}</span>
           </h1>
@@ -28,7 +28,7 @@ const Hero = () => {
           </h1>
           <p className="text-lg md:text-xl mb-6">ARE GETTING MARRIED</p>
           <p className="text-lg md:text-xl mb-6">
-            ON 14th Feb, AT R.M.S Function Hall, Balaji Talkies Road,Hindupur.
+            ON 14th Feb  @ R.M.S Function Hall, Balaji Talkies Road,Hindupur.
           </p>
         </div>
       </div>

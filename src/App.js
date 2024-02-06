@@ -1,7 +1,6 @@
 import "./App.css";
 import Hero from "./components/Hero";
 import CoupleInfo from "./components/CoupleInfo";
-import CoupleImages from "./components/CoupleImages";
 import LocationInfo from "./components/Location";
 
 function App() {
@@ -11,7 +10,6 @@ function App() {
         <Hero />
         <CoupleInfo />
         <LocationInfo />
-        <CoupleImages />
       </div>
     </div>
   );
