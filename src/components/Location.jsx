@@ -1,10 +1,8 @@
-import React from "react";
-
 const LocationInfo = () => {
-  const weddingVenueLat = "13.8275268";
-  const weddingVenueLng = "77.4966735";
-  const weddingVenueName = "R.M.S. Functional Hall";
-  const weddingVenueLink = `https://www.google.com/maps/place/R.M.S.Functional+Hall,+Balaji+Talkies+Rd,+Near+Balaji+theater,+Mukkidipeta,+Hindupuram,+Andhra+Pradesh+515201/@${weddingVenueLat},${weddingVenueLng},17z/data=!4m6!3m5!1s0x3bb1a3a1052513af:0x492b33ede5040f46!8m2!3d${weddingVenueLat}!4d${weddingVenueLng}!16s%2Fg%2F1tf3mc52?source=lnms`;
+  const weddingVenueLat = "13.8270352";
+  const weddingVenueLng = "77.4994224";
+  const weddingVenueName = "AMS Function Hall";
+  const weddingVenueLink = `https://www.google.com/maps/place/AMS+Function+Hall/@${weddingVenueLat},${weddingVenueLng},15z/data=!4m2!3m1!1s0x0:0x10248365e85dab5f?sa=X&ved=2ahUKEwjM59nU1JiEAxUbTWwGHfAcCF8Q_BJ6BAgQEAA`;
 
   return (
     <section className="bg-white py-8 md:py-12 kaushan-script-regular">
@@ -39,7 +37,7 @@ const LocationInfo = () => {
       </div>
       <p className=" kaushan-script-regular mt-5">
           {" "}
-          With love Divya & Akhil 
+          With love Sushma & Ashok Kumar
         </p>
     </section>
   );

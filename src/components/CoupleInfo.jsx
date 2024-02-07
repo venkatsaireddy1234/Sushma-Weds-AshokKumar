@@ -32,7 +32,7 @@ const CoupleInfo = () => {
 
           <h2 className="font-bold mb-2 md:mb-4">Wedding Festivities</h2>
           <div>
-            <strong > 💑13th Tuesday - Reception 7PM Onwards</strong>{" "}
+            <strong > 💑13th Tuesday - Reception 7:30PM Onwards</strong>{" "}
             <p className=" kaushan-script-regular">
              The most special moment, where we become
               partners forever. Your blessings will light up our path as we step
@@ -40,17 +40,17 @@ const CoupleInfo = () => {
             </p>
           </div>
           <div>
-            <strong>🎉14th Wednesday - Muhurtham 6AM - 7AM</strong>{" "}
+            <strong>🎉14th Wednesday - Muhurtham 10:30AM - 11AM</strong>{" "}
             <p className=" kaushan-script-regular">
-           Let's start the festivities with an evening of
-              delightful dancing, conversations, scrumptious food, and the joy
+           Let's start the festivities with an afternoon of
+              delightful conversations, scrumptious food, and the joy
               of togetherness.
             </p>
           </div>
           <div>
             <strong>🏰 Venue Place:</strong>{" "}
             <p className=" kaushan-script-regular">
-              R.M.S Function Hall, Balaji Talkies Road,Hindupur.
+            A.M.S Function Hall, Near M.G.M School,Hindupur.
             </p>
           </div>
           <div>
